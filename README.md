@@ -19,7 +19,7 @@ This Python script allows you to download YouTube videos based on a search query
     git clone https://github.com/Brzydok/useful/useful.git
     cd useful
 
-2. **Run the script:**
+3. **Run the script:**
     ```bash
    python main.py
    
